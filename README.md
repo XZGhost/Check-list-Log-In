@@ -1,8 +1,17 @@
 # Check-list-Log-In
-функция                                                        |статус проверки|          комментарий                                                      сборка
-1)регистрация                                                  |               |
-  нажанимаем на кнопку sign up                                 | выполнено     |
-  вводим данные в графы (Имя, Фамилия, Пароль)                 | выполнено     |         Святослав Таран; +375*****66*4; p**s****f*rs******ac****y
-  выбираем дату рождения                                       | выполнено     |         23-05-2000
-  выберам пол                                                  | выполнено     |         мужской 
-  регистрация                                                  | выполнено     |
+Log In on Facebook.com
+
+*Critical Path Test*
+
+  Action                                                       |Status|   -- *Comment* --   
+                                                                                                             
+  1)Enter your phone number or email                           |Passed|   -- *None* --
+                                                                              
+  2)Enter password                                             |Passed|   -- *None* --
+                                                                             
+  3)Click the button "Sign In"                                 |Passed|   -- *None* --
+  
+  4)Log In to your account                                     |Passed|   -- *None* --
+  
+  (Build: System -- Win 10Pro, Browser-- Mozilla 88.0.1 (64-bit), Facebook.com -- 2021(20 May))
+  
