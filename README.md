@@ -13,5 +13,5 @@ Log In on Facebook.com
   
   4)Log In to your account                                     |Passed|   -- *None* --
   
-  (Build: System -- Win 10Pro, Browser-- Mozilla 88.0.1 (64-bit), Facebook.com -- 2021(20 May))
+  (Build: System -- Win 10Pro, Browser -- Mozilla 88.0.1 (64-bit), Facebook.com -- 2021(20 May))
   
