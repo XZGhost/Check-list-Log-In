@@ -46,19 +46,50 @@
    Action                                                                                               |Status|   -- *Comment* --   
    
    1)Click on the profile icon in the upper right corner                                                |Passed|   -- *None* --
+   
    2)Click the button "Settings & Privacy"                                                              |Passed|   -- *None* --
+   
    3)Click the button "Settings"                                                                        |Passed|   -- *None* --
+   
    4)Click the button "Security and Login"                                                              |Passed|   -- *None* --
+   
    5)In the graph "Login" in the line "Chacge password" click the button "Edit"                         |Passed|   -- *Pop-up* --
+   
    6)In the graph "New" enter new password                                                              |Passed|   -- *None* --
+   
    7)In the graph "Re-type new" confirm new password                                                    |Passed|   -- *None* --
+   
    8)Click the button "Save Changes"                                                                    |Passed|   -- *Pop-up* --
+   
     8.1)Point selection "Review other devices"                                                          |Passed|   -- *Pop-up* --
-     8.1.1)Click the button "Stay on this page"    
-     8.1.2)Click the button "Leave this page"                                                                
-    8.2)Point selection "Stay logged in"                                                                |Passed| -- *Pop-up closed* --
     
-   9)Change password account                                                                            |Passed|   -- *None* --
-  
+     8.1.1)Click the button "Stay on this page"                                                         |Passed|   -- *Pop-up closed* --
+     
+     8.1.2)Click the button "Leave this page"                                                           |Passed|   -- *Pop-up closed* --
+     
+    8.2)Point selection "Stay logged in"                                                                |Passed|   -- *Pop-up closed* --
+    
+   9)Forgot Password on Facebook.com                                                                    |Passed|   -- *None* --
+   
+   ================================================================================
+   
+   1)Click on the blue text "Forgot Password?"                                                          |Passed|   -- *Pop-up* --
+   
+   2)In the graph "Mobile number" enter mobile number                                                   |Passed|   -- *Pop-up* --
+   
+   3)Point selection "Send code via SMS"                                                                |Passed|   -- *None* --
+   
+   4)Click the button "Continue"                                                                        |Passed|   -- *Pop-up* --
+   
+   5)In the graph "Enter code" enter the code from the SMS                                              |Passed|   -- *848298* --
+   
+   6)Click the button "Continue"                                                                        |Passed|   -- *Pop-up* --
+   
+   7)In the graph "New password" enter new password                                                     |Passed|   -- *None* --
+   
+   8)Click the button "Continue"                                                                        |Passed|   -- *Sign In account* --
+   
+   9)Forgot Password on Facebook.com 
+   
   (Build: System -- Win 10Pro, Browser -- Mozilla 88.0.1 (64-bit), Facebook.com -- 2021(20 May))
   
